@@ -1,10 +1,10 @@
 [
   {
-    "package": "rQCC",
+    "package": "weibullness",
     "oncran": true
   },
   {
-    "package": "weibullness",
+    "package": "rQCC",
     "oncran": true
   }
 ]
