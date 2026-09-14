@@ -10,6 +10,10 @@
 	path = rQCC
 	url = https://github.com/appliedstat/r
 	subdir = rQCC
+[submodule "rt.test"]
+	path = rt.test
+	url = https://github.com/appliedstat/r
+	subdir = rt.test
 [submodule "weibullness"]
 	path = weibullness
 	url = https://github.com/appliedstat/r
